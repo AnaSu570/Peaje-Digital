@@ -120,6 +120,7 @@ export const EtherInput = ({
           >
             <ArrowsRightLeftIcon className="h-3 w-3 cursor-pointer" aria-hidden="true" />
           </button>
+
         </div>
       }
     />
